@@ -1,12 +1,12 @@
 
 ![Banner](https://i.imgur.com/wVoouvs.png)
-### :dark_sunglasses: Nice to see you! <img src='https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966' height='20' width='20' alt='Hand Waving Hello'>
+### :dark_sunglasses: Nice to see you!
 
 > “All our dreams can come true, if we have the courage to pursue them.” – Walt Disney
 
-I'm Xander, :computer: full-stack website application developer :joystick:, from :snowflake: Minnesota :mountain_snow:! I like playing with all sorts of technologies, just to see if I can make cool things! *Bonus points if it helps someone.*
+I'm Xander, :computer: full-stack application developer :joystick: from  Minnesota :snowflake:! I like playing with all sorts of technologies, just to see if I can make cool things! *Bonus points if it helps someone.*
 
-_Recruiters, please note that my GitHub contribution graph shows inactivity due to working on code in a private Gerrit repository; which is not reflected. I am coding every single day and constantly growing and learning. Thank you :heart:_
+_GitHub contribution graph shows inactivity due to working on code in a private Gerrit repository; which is not reflected. I am coding every single day and constantly growing and learning. Thank you :heart:_
 
 ### :computer: Technologies I Use :desktop_computer:
 <p>
@@ -30,5 +30,4 @@ _Recruiters, please note that my GitHub contribution graph shows inactivity due 
   <li>:microscope: I’m currently working on learning Next.js and Nest.js in Typescript!</li>
   <li>:necktie: I’m current working as a Software Engineer @ PTC!</li>
   <li>:iphone: I’m always looking to network with others, regardless of field!</li>
-  <li>:goal_net: 2021 Goals: Build more with the MERN Stack and expand to other technologies!</li>
 </ul>
